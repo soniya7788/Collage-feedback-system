@@ -71,6 +71,10 @@ Edit
 
 ---
 
+Output:
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/df149532-1b7a-4b64-a6c8-4273301f3e94" />
+---
+
 ## 📃 License
 
 This project is created for educational purposes. You are free to use or modify it.
